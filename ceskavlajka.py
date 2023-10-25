@@ -1,5 +1,5 @@
 width = 30
-height = 10
+height = 15
 colors = {
     "red": "\033[91m\u2588\033[0m",
     "white": "\u2588",
